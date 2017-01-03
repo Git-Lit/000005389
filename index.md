@@ -1,3 +1,7 @@
+---
+layout: default
+title: Comic History of Rome ... Illustrated by John Leech.]
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
